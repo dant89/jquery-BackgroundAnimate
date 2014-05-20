@@ -17,6 +17,10 @@ The purpose of this plugin is to allow you to immediately animate any background
 4. Give that element a `background-image`, `background-position` and set the `background-repeat` in CSS
 5. Create the line of jQuery to reference that element and initiate the plugin
 
+### Demo
+
+You can view a live demo at the following location: [Demo Link](http://github.drttrd.com/jquery-BackgroundAnimate/demo.html)
+
 ### Usage
 
 The following is a basic example of how to use the plugin. 
