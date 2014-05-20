@@ -1,0 +1,23 @@
+{
+    "name": "BackgroundAnimate",
+    "title": "jQuery Background Animate",
+    "description": "A jQuery plugin to enable you to animate the background of any element",
+    "keywords": [
+        "background-image",
+        "animate"
+    ],
+    "version": "0.1.1",
+    "author": {
+        "name": "Dan Thorpe",
+        "url": "http://uk.linkedin.com/in/danrthorpe/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
