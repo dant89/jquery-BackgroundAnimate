@@ -19,7 +19,7 @@ The purpose of this plugin is to allow you to immediately animate any background
 
 ### Demo
 
-You can view a live demo at the following location: [Demo Link](http://github.drttrd.com/jquery-BackgroundAnimate/demo.html)
+You can view a live demo at the following location: <a href="http://github.drttrd.com/jquery-BackgroundAnimate/demo.html" target="_blank">Demo Link</a>
 
 ### Usage
 
